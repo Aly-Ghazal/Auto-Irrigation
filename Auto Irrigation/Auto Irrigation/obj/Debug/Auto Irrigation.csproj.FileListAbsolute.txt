@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\Auto Irrigation\Auto Irrigation\obj\Debug\Auto Irrigation.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Auto Irrigation\Auto Irrigation\obj\Debug\Auto_Irrigation.main_page.resources
+C:\Users\lenovo\source\repos\Auto Irrigation\Auto Irrigation\obj\Debug\Auto_Irrigation.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Auto Irrigation\Auto Irrigation\obj\Debug\Auto Irrigation.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Auto Irrigation\Auto Irrigation\obj\Debug\Auto Irrigation.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Auto Irrigation\Auto Irrigation\bin\Debug\Auto Irrigation.exe.config
+C:\Users\lenovo\source\repos\Auto Irrigation\Auto Irrigation\bin\Debug\Auto Irrigation.exe
+C:\Users\lenovo\source\repos\Auto Irrigation\Auto Irrigation\bin\Debug\Auto Irrigation.pdb
+C:\Users\lenovo\source\repos\Auto Irrigation\Auto Irrigation\obj\Debug\Auto Irrigation.exe
+C:\Users\lenovo\source\repos\Auto Irrigation\Auto Irrigation\obj\Debug\Auto Irrigation.pdb
